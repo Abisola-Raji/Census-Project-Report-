@@ -32,9 +32,9 @@ the person who had the responsibility to fill in the census details);
 # The Task. The town from the census is a modestly sized one sandwiched between two much larger cities that it 
 is connected to by motorways. The town does not have a university, but students do live in the town and 
 commute to the nearby cities. Once you have a cleaned dataset to analyse, your task is to decide the following: 
-(a) What should be built on an unoccupied plot of land that the local government wishes to 
-develop? Your choices are: 
-(i) High-density housing. This should be built if the population is significantly expanding.
+- What should be built on an unoccupied plot of land that the local government wishes to 
+develop? Your choices are:
+- High-density housing. This should be built if the population is significantly expanding.
 (ii) Low-density housing. This should be built if the population is “affluent” and there is 
 demand for large family housing.
 (iii) Train station. There are potentially a lot of commuters in the town and building a train 
