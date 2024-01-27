@@ -30,6 +30,7 @@ the person who had the responsibility to fill in the census details);
 # The Task. The town from the census is a modestly sized one sandwiched between two much larger cities that it 
 is connected to by motorways. The town does not have a university, but students do live in the town and 
 commute to the nearby cities. The task is to decide the following: 
+
 (a) What should be built on an unoccupied plot of land that the local government wishes to 
 develop? Choices are:
 - High-density housing. This should be built if the population is significantly expanding.
