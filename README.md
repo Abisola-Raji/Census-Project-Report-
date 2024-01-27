@@ -1,4 +1,4 @@
-                 # Census-Project-Report
+# Census-Project-Report
 Analysis on a mock census of an imaginary modest town using Python.
 ![luke-michael-ZKZyYIR9hUA-unsplash](https://github.com/Abisola-Raji/Census-Project-Report-/assets/157732949/675cfcd4-f318-4bf8-8e82-04aab150fa9c)
 
